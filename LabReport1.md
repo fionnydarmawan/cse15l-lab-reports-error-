@@ -9,8 +9,8 @@ Once you have installed VS Code, make new folder in your computer device. Then o
 ![Image](VSCode.png)
 
 ## Step 2: Connecting to a remote server 
-```
 By now, you should have obtained your course-specific account for CSE15L with your new password. 
+```
 Ex: `cs15lsp23cb@ieng.ucsd.edu` 
 ```
 *If you are on Windows, please follow the instruction [here](https://gitforwindows.org/) to download `git`. Once it is installed, set your default terminal to use the new `git bash` that was just installed by following the instructions [here]( https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994). 
@@ -49,7 +49,7 @@ bash: cd~: command not found...
 ![Image](ls-lat.png)
 
 `ls -a`
-![Image](ls-a.png)
+![Image](las-a.png)
 
 **To log out of the server and terminate the terminal:** 
 * Ctrl-D
