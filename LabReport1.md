@@ -16,7 +16,7 @@ Ex: `cs15lsp23cb@ieng.ucsd.edu`
 *If you are on Windows, please follow the instruction [here](https://gitforwindows.org/) to download `git`. Once it is installed, set your default terminal to use the new `git bash` that was just installed by following the instructions [here]( https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994). 
 
 In your VSCode, open a new Terminal. 
-![Image](NewTerminal.png)
+<img src="NewTerminal.png" width="500" height="200">
 
 Paste `ssh cs15lsp23zz@ieng6.ucsd.edu` in your command line, replacing `zz` with the two letters assigned in your course-specific account. 
 
