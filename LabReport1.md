@@ -6,7 +6,7 @@ To download and install VS Code, simnply visit their website [here!](https://cod
 and follow through with the instructions of your operating system (macOS or Windows). 
 
 Once you have installed VS Code, make new folder in your computer device. Then on your VSCode, open a new foler. You should be able to open it and view a window that looks like this: 
-<img src="VSCode.png" width="500" height="500">
+<img src="VSCode.png" width="500" height="1000">
 
 ## Step 2: Connecting to a remote server 
 By now, you should have obtained your course-specific account for CSE15L with your new password. 
