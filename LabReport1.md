@@ -27,9 +27,9 @@ As this would be your first time connecting, you will likely be promptted with a
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 Password:
 ```
-Type yes on the command line and when it prompts `password:`, type in your new password (the password will not show on screen as you type it). 
+Type **yes** on the command line and when it prompts `password:`, type in your new password (the password will not show on screen as you type it). 
 Then this should appear on your terminal: 
-![Image](ssh.png)
+<img src="ssh.png" width="500" height="200">
 
 
 You are now connected remotely a computer in the CSE basement! This will allow any commands you run on your terminal to be run on the compuetr as well!
@@ -58,7 +58,7 @@ bash: cd~: command not found...
 * Ctrl-D
 * Paste the command `exit`
 
-
+## Yay! You are now set up for CSE15L :)
 
 
 
