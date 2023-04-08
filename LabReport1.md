@@ -51,6 +51,7 @@ Here are some commands and their expected outputs that you can try:
 bash: cd~: command not found...
 
 `ls -lat`
+
 <img src="ls-lat.png" width="300" height="200">
 
 `ls -a`
