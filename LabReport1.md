@@ -18,7 +18,7 @@ Ex: `cs15lsp23cb@ieng.ucsd.edu`
 In your VSCode, open a new Terminal. 
 ![Image](NewTerminal.png)
 
-Paste `$ ssh cs15lsp23zz@ieng6.ucsd.edu` in your command line, replacing `zz` with the two letters assigned in your course-specific account. 
+Paste `ssh cs15lsp23zz@ieng6.ucsd.edu` in your command line, replacing `zz` with the two letters assigned in your course-specific account. 
 
 As this would be your first time connecting, you will likely be promptted with a message that ends with 
 ```
@@ -46,9 +46,17 @@ Here are some commands and their expected outputs that you can try:
 bash: cd~: command not found...
 
 `ls -lat`
-
+![Image](ls-lat.png)
 
 `ls -a`
+![Image](ls-a.png)
+
+**To log out of the server and terminate the terminal:** 
+* Ctrl-D
+* Paste the command `exit`
+
+
+
 
 
 
