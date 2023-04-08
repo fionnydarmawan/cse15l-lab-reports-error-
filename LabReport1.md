@@ -17,7 +17,8 @@ Ex: `cs15lsp23cb@ieng.ucsd.edu`
 
 
 In your VSCode, open a new Terminal. 
-<img src="NewTerminal.png" width="500" height="500">
+
+<img src="NewTerminal.png" width="500" height="200">
 
 Paste `ssh cs15lsp23zz@ieng6.ucsd.edu` in your command line, replacing `zz` with the two letters assigned in your course-specific account. 
 
