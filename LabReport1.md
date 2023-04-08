@@ -29,14 +29,16 @@ Password:
 ```
 Type **yes** on the command line and when it prompts `password:`, type in your new password (the password will not show on screen as you type it). 
 Then this should appear on your terminal: 
-<img src="ssh.png" width="500" height="200">
+
+<img src="ssh.png" width="300" height="200">
 
 
 You are now connected remotely a computer in the CSE basement! This will allow any commands you run on your terminal to be run on the compuetr as well!
 
 **Some errors you might find:**
 The screen shot above shows a successful remote connection. However I did not use my course-specific account, but rather my regular student account in order to connect remotely. When I tried using my course-specific account, I kept running into this error message:
-![Image](error.png)
+
+<img src="ssh.png" width="300" height="200">
 We are still not sure why I am getting this error message, but if you happen to come across this error message, ask one of the tutors or even go to one of the TA's office hours. You can also ask a question on StemEd!
 
 ## Step 3: Run Some Commands!
