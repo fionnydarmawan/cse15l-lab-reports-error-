@@ -32,7 +32,26 @@ Then this should appear on your terminal:
 You are now connected remotely a computer in the CSE basement! This will allow any commands you run on your terminal to be run on the compuetr as well!
 
 **Some errors you might find:**
-The screen shot above shows a successful remote connection. However I did not use my course-specific account, but rather my regular student account in order to connect remotely. When I tried using my course-specific account, I kept running into this error message. 
+The screen shot above shows a successful remote connection. However I did not use my course-specific account, but rather my regular student account in order to connect remotely. When I tried using my course-specific account, I kept running into this error message:
+![Image](error.png)
+We are still not sure why I am getting this error message, but if you happen to come across this error message, ask one of the tutors or even go to one of the TA's office hours. You can also ask a question on StemEd!
+
+## Step 3: Run Some Commands!
+This final step is for you try out so commands on the terminal! 
+Here are some commands and their expected outputs that you can try: 
+`cd`
+(This command will produce nothing)
+
+`cd~`
+bash: cd~: command not found...
+
+`ls -lat`
+
+
+`ls -a`
+
+
+
 
 
 
