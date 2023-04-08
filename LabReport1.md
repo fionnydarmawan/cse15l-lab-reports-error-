@@ -27,7 +27,9 @@ Password:
 ```
 Type yes on the command line and when it prompts `password:`, type in your new password (the password will not show on screen as you type it). 
 Then this should appear on your terminal: 
+```
 ![Image](ssh.png)
+```
 
 You are now connected remotely a computer in the CSE basement! This will allow any commands you run on your terminal to be run on the compuetr as well!
 
